@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675869314622",
+    "project_id": "otpauth-74c7c",
+    "storage_bucket": "otpauth-74c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675869314622:android:7b8e3c1399da61841f0b6f",
+        "android_client_info": {
+          "package_name": "com.pksoft.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSTuemnR_oVQhK7A-xAzkg4r2506em2Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
